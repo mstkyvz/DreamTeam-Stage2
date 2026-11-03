@@ -100,7 +100,7 @@ flowchart LR
 ```mermaid
 flowchart LR
     P["System prompt<br/>rubrik + few-shot<br/>(~4.950 token, paylaşılan)"] --> R["Satır gövdesi<br/>(~145 token)"]
-    R --> F["Assistant prefill<br/><code>{&quot;etiket&quot;: &quot;</code>"]
+    R --> F["Assistant prefill<br/>{#quot;etiket#quot;: #quot;"]
     F --> T["1 token decode<br/>logprobs=48"]
     T --> V["3-vektör<br/>etiket prefix marjinalleri"]
     V --> I["IPF read-out<br/>λ = 0.5"]
