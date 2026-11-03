@@ -1,0 +1,11 @@
+# The model directories are COPY'd explicitly and are the only large things that belong in the
+# image. Everything below is either regenerated, secret, or dev-only.
+**/__pycache__/
+**/*.pyc
+**/.pytest_cache/
+.git/
+.DS_Store
+tests/
+*.log
+*.npy
+out/

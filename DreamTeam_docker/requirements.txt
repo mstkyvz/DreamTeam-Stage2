@@ -1,0 +1,19 @@
+# Pinned from the GPU box the reported numbers were measured on (`pip freeze`).
+# vLLM's wheel transitively pins its whole torch / transformers / triton stack, so those are
+# deliberately NOT pinned separately here -- a second pin would silently fight the wheel's own.
+vllm==0.28.0
+
+# ninja backs the JIT paths vLLM still fires on this GPU. Observed hard crash without it.
+ninja
+
+# FlashInfer, for the champion's attention backend on SM80. The companion `flashinfer-cubin`
+# and `flashinfer-jit-cache` packages are deliberately NOT pinned here -- no published build
+# matches this version, and a mismatched pair is a hard import failure rather than a slow path.
+# See the Dockerfile for the measurement that says they are unnecessary.
+flashinfer-python==0.6.16.post3
+
+pandas==3.0.5
+numpy
+fastapi==0.136.3
+uvicorn==0.52.4
+pydantic==2.13.4

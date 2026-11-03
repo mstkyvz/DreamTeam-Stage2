@@ -1,0 +1,171 @@
+SORGU: çizgili takım elbise
+BAŞLIK: premium kadın çizgili ceket yelek pantolon 3’lü takım – modern ofis şıklığı
+KATEGORİ: giyim/takım elbise
+MARKA: ossons
+CİNSİYET/YAŞ: kadın / yetişkin
+ÖZELLİKLER: yaka tipi: ceket yaka, materyal: polyester karışımlı, kumaş tipi: dokuma, kalıp: oversize, renk: lacivert, materyal bileşeni: 95% polyester, 5% elastan, ortam: business, yıkama talimatı: type 1, boy: standart, desen: çiz
+CEVAP: {"etiket": "relevant", "gerekce": "Ürün sorgunun istediği şeyin ta kendisi ve sorgunun yazdığı şartların hepsi tutuyor."}
+
+---
+
+SORGU: çizgili takım elbise
+BAŞLIK: slim fit mono yaka takım elbise
+KATEGORİ: giyim/takım elbise
+MARKA: dupont
+CİNSİYET/YAŞ: erkek / yetişkin
+ÖZELLİKLER: yaka tipi: kırlangıç yaka, materyal: viskon, kumaş tipi: dokuma, kalıp: slim fit, renk: lacivert, ortam: business, yıkama talimatı: type 1, boy: standart, desen: düz, paça tipi: düz paça, kol tipi: askılı, ek özellik: yı
+CEVAP: {"etiket": "semi-relevant", "gerekce": "Ürün aynı ihtiyaca kısmen hizmet ediyor ama sorgunun istediği varyantın kendisi değil."}
+
+---
+
+SORGU: yan çanta
+BAŞLIK: hakiki deri postacı çantası premium deri çapraz askılı yandan asmalı omuz çanta
+KATEGORİ: aksesuar/çanta/postacı çantası
+MARKA: westbag
+CİNSİYET/YAŞ: unisex / yetişkin
+ÖZELLİKLER: sürdürülebilirlik detayı: hayır, materyal: hakiki deri, renk: siyah, materyal bileşeni: %100 hakiki deri, yıkama talimatı: kuru bez ile nazikçe siliniz, desen: düz, deri kalitesi: gerçek deri, kumaş tipi: belirtilmemiş, 
+CEVAP: {"etiket": "relevant", "gerekce": "Ürün sorgunun istediği şeyin ta kendisi ve sorgunun yazdığı şartların hepsi tutuyor."}
+
+---
+
+SORGU: kadın kışlık mont
+BAŞLIK: kadın uzun kollu düğmeli triko hırka
+KATEGORİ: giyim/dış giyim/ceket & yelek/hırka
+MARKA: modaline
+CİNSİYET/YAŞ: kadın / yetişkin
+ÖZELLİKLER: materyal: triko, renk: antrasit, kalıp: regular, sezon: sonbahar - kış, menşei: tr
+CEVAP: {"etiket": "irrelevant", "gerekce": "Cinsiyet ve mevsim tutuyor ama sorgunun istediği dış giyim parçası mont iken ürün bir triko hırka, yani ürün tipi şartı çiğneniyor."}
+
+---
+
+SORGU: yan çanta
+BAŞLIK: örgü çantalar i̇çin suni deriden yan kapak ve elcik set
+KATEGORİ: aksesuar/çanta/çanta aksesuarı
+MARKA: zg hobi aksesuar
+CİNSİYET/YAŞ: kadın / yetişkin
+ÖZELLİKLER: kumaş tipi: belirtilmemiş, renk: siyah, materyal bileşeni: suni deri - metal, ortam: günlük, deri kalitesi: i̇mitasyon deri, sürdürülebilirlik detayı: hayır, menşei: tr
+CEVAP: {"etiket": "semi-relevant", "gerekce": "Ürün aynı ihtiyaca kısmen hizmet ediyor ama sorgunun istediği varyantın kendisi değil."}
+
+---
+
+SORGU: yapışkanlı fayans
+BAŞLIK: kendinden yapışkanlı kesilebilir metro karo desenli pvc karo 30x30 cm (4 adet) 0,36 m2
+KATEGORİ: banyo yapı & hırdavat/hırdavat/seramik ve yer döşemesi
+MARKA: tink
+ÖZELLİKLER: menşei: tr, özellik: kendinden yapışkanlı, ürün güvenliği bilgisi: tehlikeli değil
+CEVAP: {"etiket": "relevant", "gerekce": "Ürün sorgunun istediği şeyin ta kendisi ve sorgunun yazdığı şartların hepsi tutuyor."}
+
+---
+
+SORGU: yapışkanlı fayans
+BAŞLIK: 60cm×300cm kendinden yapışkanlı modern görünümlü duvar kağıdı mutfak dolap masa kaplama
+KATEGORİ: banyo yapı & hırdavat/hırdavat/duvar kağıdı
+MARKA: technosmart
+ÖZELLİKLER: renk: gri, kullanım alanı: mutfak, özellik: kendinden yapışkanlı
+CEVAP: {"etiket": "semi-relevant", "gerekce": "Ürün aynı ihtiyaca kısmen hizmet ediyor ama sorgunun istediği varyantın kendisi değil."}
+
+---
+
+SORGU: lacivert erkek sweatshirt
+BAŞLIK: erkek bordo baskılı kapüşonlu sweatshirt
+KATEGORİ: giyim/üst giyim/sweatshirt
+MARKA: tekno stil
+CİNSİYET/YAŞ: erkek / yetişkin
+ÖZELLİKLER: renk: bordo, kalıp: oversize, yaka tipi: kapüşonlu, materyal: pamuklu, menşei: tr
+CEVAP: {"etiket": "irrelevant", "gerekce": "Ürün tipi ve cinsiyet doğru ama sorgu lacivert isterken ürünün rengi bordo, sorgunun açıkça yazdığı renk şartı ihlal ediliyor."}
+
+---
+
+SORGU: kol düğmesi
+BAŞLIK: bakır renk füme detaylı yuvarlak kol düğmesi kd1320
+KATEGORİ: aksesuar/kravat & kol düğmesi/kol düğmesi
+MARKA: kravatkolik
+CİNSİYET/YAŞ: erkek / yetişkin
+ÖZELLİKLER: renk: metalik, materyal: gümüş, bakım talimatları (genel): ürünün kullanım ömrünü korumak için ürüne özel bakım talimatlarını takip ediniz., color detail: bakir 4
+CEVAP: {"etiket": "relevant", "gerekce": "Ürün sorgunun istediği şeyin ta kendisi ve sorgunun yazdığı şartların hepsi tutuyor."}
+
+---
+
+SORGU: kol düğmesi
+BAŞLIK: kol düğmesi kravat iğne seti - mavi
+KATEGORİ: aksesuar/kravat & kol düğmesi/kol düğmesi
+MARKA: zekupp
+CİNSİYET/YAŞ: erkek / yetişkin
+ÖZELLİKLER: renk: çok renkli, materyal: pirinç, bakım talimatları (genel): ürünün kullanım ömrünü korumak için ürüne özel bakım talimatlarını takip ediniz.
+CEVAP: {"etiket": "semi-relevant", "gerekce": "Ürün aynı ihtiyaca kısmen hizmet ediyor ama sorgunun istediği varyantın kendisi değil."}
+
+---
+
+SORGU: kadın tesettür gömlek
+BAŞLIK: kadın beli nervürlü poplin gömlek beyaz
+KATEGORİ: giyim/tesettür giyim/tesettür gömlek
+MARKA: locco
+CİNSİYET/YAŞ: kadın / genç
+ÖZELLİKLER: yaka tipi: gömlek yaka, kumaş tipi: dokuma, kol tipi: uzun kol, cep: cepsiz, desen: düz, kalıp: slim fit, renk: beyaz, kol boyu: uzun, materyal: pamuk polyester, dokuma tipi: poplin, kemer/kuşak durumu: kemersiz, ortam: 
+CEVAP: {"etiket": "relevant", "gerekce": "Ürün sorgunun istediği şeyin ta kendisi ve sorgunun yazdığı şartların hepsi tutuyor."}
+
+---
+
+SORGU: redmi note 13 kılıf
+BAŞLIK: samsung galaxy a15 uyumlu kamera korumalı silikon kılıf
+KATEGORİ: elektronik/elektronik aksesuarlar/cep telefonu aksesuarları/kapak & kılıf
+MARKA: ceppon
+ÖZELLİKLER: materyal: silikon, cep telefonu modeli: galaxy a15, uyumlu marka: samsung uyumlu, renk: şeffaf
+CEVAP: {"etiket": "irrelevant", "gerekce": "Ürün doğru tipte bir telefon kılıfı ama sorgudaki Redmi Note 13 yerine Samsung Galaxy A15 ile uyumlu, marka ve model şartı ihlal ediliyor."}
+
+---
+
+SORGU: beşiktaş
+BAŞLIK: beşiktaş 2024-25 sezon kartları - metal kutu
+KATEGORİ: hobi & eğlence/oyun grupları/oyun kartları
+MARKA: beşiktaş
+ÖZELLİKLER: menşei: tr
+CEVAP: {"etiket": "relevant", "gerekce": "Ürün sorgunun istediği şeyin ta kendisi ve sorgunun yazdığı şartların hepsi tutuyor."}
+
+---
+
+SORGU: ipek yastık kılıfı
+BAŞLIK: ipek kılıf %100 saf ipek kılıf 50x70 cm inci beyazı renk
+KATEGORİ: ev & mobilya/ev/ev tekstili/yatak odası tekstili/yastık&yastık kılıfı/yastık kılıfı
+MARKA: ma'demur
+ÖZELLİKLER: materyal: ipek, boyut/ebat: 50 x 70, renk: beyaz, desen: düz, özellik: antibakteriyel, yıkama talimatı: elde yikama, materyal bileşeni: 100% saf ipek, parça sayısı: 1, menşei: tr, color detail: inci beyazı
+CEVAP: {"etiket": "relevant", "gerekce": "Ürün sorgunun istediği şeyin ta kendisi ve sorgunun yazdığı şartların hepsi tutuyor."}
+
+---
+
+SORGU: boks şortu
+BAŞLIK: glossy kick boks eldiveni muay thai müsabaka ve antreman eldiveni bandajlı 2'li set
+KATEGORİ: spor & outdoor/ekipman & aksesuar/boks/boks eldiveni
+MARKA: dragondo
+CİNSİYET/YAŞ: çocuk / genç
+ÖZELLİKLER: materyal: poliüretan, renk: gri, menşei: pk, bakım talimatları (genel): nemli bir bezle silin., özellik: uzun
+CEVAP: {"etiket": "semi-relevant", "gerekce": "Ürün aynı ihtiyaca kısmen hizmet ediyor ama sorgunun istediği varyantın kendisi değil."}
+
+---
+
+SORGU: kadın kışlık mont
+BAŞLIK: kadın uzun kollu düğmeli triko hırka
+KATEGORİ: giyim/dış giyim/ceket & yelek/hırka
+MARKA: modaline
+CİNSİYET/YAŞ: kadın / yetişkin
+ÖZELLİKLER: materyal: triko, renk: antrasit, kalıp: regular, sezon: sonbahar - kış, menşei: tr
+CEVAP: {"etiket": "irrelevant", "gerekce": "Cinsiyet ve mevsim tutuyor ama sorgunun istediği dış giyim parçası mont iken ürün bir triko hırka, yani ürün tipi şartı çiğneniyor."}
+
+---
+
+SORGU: red switch klavye
+BAŞLIK: gamenote kb870l rgb backlit gaming mekanik klavye blue switch siyah klavye
+KATEGORİ: elektronik/elektronik aksesuarlar/bilgisayar aksesuarları/oyuncu donanımları/oyuncu klavyesi
+MARKA: havit
+ÖZELLİKLER: makrolu: var, garanti tipi: resmi distribütör garantili, aydınlatma: var, rgb aydınlatma: var, renk: çok renkli, numerik tuşlar: var, multimedya tuşları: var, tuş düzeni: q klavye, klavye dili: türkçe, garanti süresi: 2 
+CEVAP: {"etiket": "semi-relevant", "gerekce": "Ürün aynı ihtiyaca kısmen hizmet ediyor ama sorgunun istediği varyantın kendisi değil."}
+
+---
+
+SORGU: tüvit takım
+BAŞLIK: ekoseli kısa tüvit ceket 6184
+KATEGORİ: giyim/dış giyim/ceket & yelek/ceket
+MARKA: lijuri
+CİNSİYET/YAŞ: kadın / yetişkin
+ÖZELLİKLER: kol tipi: uzun kol, desen: ekose / kareli, kalıp: comfort, yaka tipi: gömlek yaka, materyal: dokuma, kumaş tipi: dokuma, renk: siyah, kapama şekli: düğmeli, ürün detayı: cep detaylı, cep: çift cepli, kol boyu: kısa, kole
+CEVAP: {"etiket": "semi-relevant", "gerekce": "Ürün aynı ihtiyaca kısmen hizmet ediyor ama sorgunun istediği varyantın kendisi değil."}
